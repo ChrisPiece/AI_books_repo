@@ -21,3 +21,6 @@ Repo about AI books
 - The Elements of Statistical Learning.pdf
 - [Tony Jebara] - Machine Learning.pdf
 - deep-learning-with-python-2018.pdf
+- advances-financial-machine-learning.pdf
+- Machine Learning in Finance From Theory to Practice by Matthew F. Dixon, Igor Halperin, Paul Bilokon.pdf
+- Packt.Machine.Learning.for.Finance.1789136369.pdf
